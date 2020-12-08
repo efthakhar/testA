@@ -1,2 +1,4 @@
 sample test : I have first create a local repository named testA which include this file 
 test1.txt an this writing are omly for practice purpose. Thanks Stack learner to introduce me with git and terminal
+
+nice approach. this is the last change in files to observe the 5th commit 
