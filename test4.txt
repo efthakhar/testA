@@ -1,2 +1,5 @@
 sample test : I have first create a local repository named testA which include this file 
 test4.txt an this writing are omly for practice purpose. Thanks Stack learner to introduce me with git and terminal
+
+
+Hi everyone I have grab the main concespt of commit in git. Thanks HM NAyem our mentor
